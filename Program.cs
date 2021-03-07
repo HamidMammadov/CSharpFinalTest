@@ -17,6 +17,7 @@ namespace Repeat
             Shark shark1 = new Shark();
             Eagle eagle2 = new Eagle();
             Shark shark2 = new Shark();
+            Shark shark3 = new Shark();
 
             List<Animal> animals = new List<Animal>();
             animals.Add(shark);
